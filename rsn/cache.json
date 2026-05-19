@@ -85,7 +85,8 @@
 			2,
 			6,
 			7,
-			8
+			8,
+			9
 		]
 	},
 	"directoryListingChallenge_1_correct.ts": {
@@ -675,7 +676,9 @@
 	},
 	"unionSqlInjectionChallenge_1.ts": {
 		"added": [],
-		"removed": []
+		"removed": [
+			6
+		]
 	},
 	"unionSqlInjectionChallenge_2_correct.ts": {
 		"added": [
@@ -693,7 +696,8 @@
 			6,
 			7,
 			8,
-			9
+			9,
+			10
 		]
 	},
 	"weakPasswordChallenge_1_correct.ts": {
